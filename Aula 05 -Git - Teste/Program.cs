@@ -11,8 +11,10 @@ namespace Curso
         static void Main(string[] args)
         {
 
+            Console.WriteLine("----------------------------------------");
             Console.WriteLine("Bom dia.");          
             Console.WriteLine("Testando commit.");
+            Console.WriteLine("----------------------------------------");
             Console.ReadLine();
 
         }
